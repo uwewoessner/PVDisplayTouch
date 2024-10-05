@@ -1,0 +1,13 @@
+{
+  "deftheme": {
+    "name": "Default",
+    "properties": []
+  },
+  "themes": [
+    {
+      "name": "test",
+      "properties": []
+    }
+  ],
+  "selected_theme": "Default"
+}
